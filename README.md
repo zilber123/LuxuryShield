@@ -46,8 +46,6 @@ An crypter tool for .Net + Native files.
 * Fud Refud every 2 Hours
 
 ![resim](https://user-images.githubusercontent.com/104153626/164760573-d11206f0-5c37-4dcb-8bfc-b887737d2fb7.png)
-
-|[Purchase](https://luxuryshield.ru/)
   
 ## Author
 
